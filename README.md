@@ -65,33 +65,33 @@ These Stats increase as you level up, but the same is true for your enemies...
 <hr>
 
 Testing :
-Health less than 10% creates low health char:
+Health less than 10% creates low health char:<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/514b9561-0213-4128-a84b-49bb49d35ff8)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/c233cc70-a755-4068-9f98-397738960503)<br>
 
-Deleting the Save data txt file:
+Deleting the Save data txt file:<br>
 
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/0c4a5e53-1683-47c3-9bee-ed5048b587fb)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/152db37f-e129-4536-be4f-581a736d211f)<br>
 
-Running the program causes it to return -1, however write a new Save.txt File
+Running the program causes it to return -1, however write a new Save.txt File<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/f60940da-e450-4567-9221-3fba6c416442)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/15b6a937-1090-4767-99e4-567156027425)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/4dc883a7-c0cc-43b0-b125-5c1e61dbc787)<br>
 
-Pressing Continue without making a new save:
+Pressing Continue without making a new save:<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/5c5ff207-2b4f-44b8-92eb-a96637c27598)<br>
-Asks for name and starts game as if the player hit "New Game"
+Asks for name and starts game as if the player hit "New Game"<br>
 
-Creating a save after levelling up:
+Creating a save after levelling up:<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/becb71ba-c0f2-4cc8-b07a-5c7ab6bff210)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/23eb242d-7c98-4778-8905-283c2fcc7e23)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/3020d0ef-a1b8-4c24-9dc2-2a4fbc8a1a0f)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/8455fb9a-b45f-44b8-8351-7ba5a32234fe)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/3eed4d1f-c4ce-4786-a8bf-6a29f918ee1d)<br>
 
-Does starting a new game reset save:
+Does starting a new game reset save:<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/0ff1f7a4-b4bf-43a2-ae56-70093b47b461)<br>
-![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/c0a619ab-a4b2-461d-8e9c-3597d9b5fd97)
-![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/d809ecba-852d-41db-a566-cbad667bf765)
-![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/d4a6636d-6190-43f2-aa62-eff9780dcab0)
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/c0a619ab-a4b2-461d-8e9c-3597d9b5fd97)<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/d809ecba-852d-41db-a566-cbad667bf765)<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/d4a6636d-6190-43f2-aa62-eff9780dcab0)<br>
