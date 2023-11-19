@@ -47,18 +47,18 @@ use A and D to navigate the menu (and e,f,or Enter to select) to choose between 
 
 Finishing a battle will reward you with EXP proportionate to the enemy's level, and Level up your Character.
 
-<h4>Stats -</h4>
+<h3>Stats -</h3>
 
 Every Creature in the shallow valley has 3 main stats:
 {
-<h5>Health -</h5> 
+<h4>Health -</h4> 
 	the Hit Points a character has, decrease with successful attacks against them.
 	if a creature's hitpoints are reduced to zero they are defeated!
 	if this creature is you however...you will fail, being sent back to your most recent save.
-<h5>Speed -</h5>
+<h4>Speed -</h4>
 	A Creature's speed defines how swift it is in combat
 	The Higher a creature's speed, the more likely it is to dodge incoming attacks.
-<h5>Attack -</h5>
+<h4>Attack -</h4>
 	The power of a creature's attack, dealing more damage to your hitPoints the higher the attack is.
 }
 
