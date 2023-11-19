@@ -1,0 +1,9 @@
+##################
+5 MMMMMMMMMMMMMM 7
+5 MMMM    MM     7
+5 MMMM MM MM MMM 7
+5 MMMM MM MM MMM 7
+5 MMMM MM    MMM 7
+5      MMMMMMMMM 7
+5 MMMMMMMMMMMMMM 7
+##################
