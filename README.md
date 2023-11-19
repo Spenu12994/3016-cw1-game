@@ -178,3 +178,7 @@ And this layout makes other adjustments possible, such as adding new Enemy types
 
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/1e3e84ad-8390-49dd-92bf-4d35ec61f0fa)<br>
 
+Larger Text:<br>
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/767e527b-44d8-4ab0-939f-4dfe5b968e46)<br>
+
