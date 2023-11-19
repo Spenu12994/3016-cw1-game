@@ -114,7 +114,60 @@ This Section of code (as commented) tries to open our save file, however throws 
 
 <h3>Set Name</h3>
 
-![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/5822c7ab-2c43-41fe-858f-6403cb674e63)
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/5822c7ab-2c43-41fe-858f-6403cb674e63)<br>
 
 This block displays the "setName" method belonging to our player class that setr our user's name.<br>
 Using try catch blocks, throws, and error exception handling, we can ensure that the name chosen is an appropriate length and doesn't contain any impossible/imparsable characters.<br>
+
+<h1>Additional Details</h1>
+<h2>Saves</h2>
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/4fddb60a-0026-40ac-9070-44c56b663f22)<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/1cf35b94-5bf7-4695-ae4c-5882c3056fc2)<br>
+our save file is stored in the above format, and is read through, extracted into an array, and used to create a Savestate Class as seen in the images below...<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/844d8eb5-13ac-448e-9e4c-65ab86300927)<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/84c06356-ba76-49a4-9a23-b4edfed10325)<br>
+
+<h2>Class Hierarchy</h2>
+Game and Save have no hierarchy as they do not need any children or parents...<br>
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/22568f68-1065-4a09-9a0e-7ea26b00231d)<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/d4d04ce0-c7d1-4ace-b077-e08debf7c8fd)<br>
+
+Our Player and Enemies, however, have a long hierarchy to abstract as much common code as possible.<br> 
+We use a mix of single inheritance and multiple inheritance in order to achieve this.<br>
+
+We Start With the Fighter Class:<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/11037768-ed8f-467a-b689-eb76c62f078c)<br>
+
+Inheriting from fighter we have Player and Enemy Classes:<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/854be00d-1a33-4978-907a-2f234db8b2a7)<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/f287340c-17d9-4ad4-b1b1-a1ec140a6d23)<br>
+
+Then Inheriting from Enemy we have our Beast, Humanoid, And Demon Enemy types:<br>
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/1ba4983b-cc24-41e9-96d6-ce1d3468a6b1)<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/4b39db3d-7ab5-4789-bb29-c88910c56c1f)<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/215f2caf-abfe-423a-b935-ce8e1a67fe56)<br>
+
+And then inheriting from those we have our different enemies:<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/b017b83a-4a59-44d4-b6ce-6a6c18bcc76e)<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/66ab50ac-7064-4a09-9036-b3933a7bdccc)<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/92f2774d-f7a0-4e6d-8b9b-f12190e41d1d)<br>
+
+This class layout means that if we wanted to add another enemy, or enemy type, it would be as simple as just creating a new class,<br>
+The Demonite and Demon classes were added late in production when deciding on what the boss should be, but if we wanted to make a new enemy such as a sea monster all we would need is the following sections:<br>
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/c615dc74-e185-451e-9d12-09083bc54646)<br>
+
+
+In the above code we have added a new enemy type (Amphibian) and two new monsters (Lake Monster and Monsterous Toad)<br>
+This Enemy Type comes with its own Type and each enemy has a different set of stats (speed, attack, health) based on its assumed capability (The Toad is slow and string, the lake monster is quick but weak)<br>
+By utilising virtual functions, our specialType() text for both of them will display an amphibian related message<br>
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/0499e8f6-4532-40d0-af13-d71003ae03fe)<br>
+
+And the toad even uses virtual functions to have its own unique Idle() text<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/7c32da05-a128-4c91-9231-cb63c4ed9e50)<br>
+
+
