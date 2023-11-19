@@ -90,7 +90,7 @@ Asks for name and starts game as if the player hit "New Game"<br>
 
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/becb71ba-c0f2-4cc8-b07a-5c7ab6bff210)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/23eb242d-7c98-4778-8905-283c2fcc7e23)<br>
-![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/3020d0ef-a1b8-4c24-9dc2-2a4fbc8a1a0f)<br>
+
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/8455fb9a-b45f-44b8-8351-7ba5a32234fe)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/3eed4d1f-c4ce-4786-a8bf-6a29f918ee1d)<br>
 
