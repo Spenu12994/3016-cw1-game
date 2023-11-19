@@ -170,4 +170,11 @@ By utilising virtual functions, our specialType() text for both of them will dis
 And the toad even uses virtual functions to have its own unique Idle() text<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/7c32da05-a128-4c91-9231-cb63c4ed9e50)<br>
 
+<h3>Uml for our Class Hierarchy would look like this: </h3>
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/5fb281b5-396b-4637-a7b2-154ed6073aad)<br>
+
+And this layout makes other adjustments possible, such as adding new Enemy types, New enemies, and New Fighter types too, greatly aiding future development:<br>
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/1e3e84ad-8390-49dd-92bf-4d35ec61f0fa)<br>
 
