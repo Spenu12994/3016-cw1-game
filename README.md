@@ -67,6 +67,7 @@ These Stats increase as you level up, but the same is true for your enemies...
 
 <h1>Testing :</h1>
 Health less than 10% creates low health char:<br>
+
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/514b9561-0213-4128-a84b-49bb49d35ff8)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/c233cc70-a755-4068-9f98-397738960503)<br>
 
@@ -81,10 +82,12 @@ Running the program causes it to return -1, however write a new Save.txt File<br
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/4dc883a7-c0cc-43b0-b125-5c1e61dbc787)<br>
 
 <h2>Pressing Continue without making a new save:</h2><br>
+
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/5c5ff207-2b4f-44b8-92eb-a96637c27598)<br>
 Asks for name and starts game as if the player hit "New Game"<br>
 
 <h2>Creating a save after levelling up:</h2><br>
+
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/becb71ba-c0f2-4cc8-b07a-5c7ab6bff210)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/23eb242d-7c98-4778-8905-283c2fcc7e23)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/3020d0ef-a1b8-4c24-9dc2-2a4fbc8a1a0f)<br>
@@ -92,6 +95,7 @@ Asks for name and starts game as if the player hit "New Game"<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/3eed4d1f-c4ce-4786-a8bf-6a29f918ee1d)<br>
 
 <h2>Does starting a new game reset save:</h2><br>
+
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/0ff1f7a4-b4bf-43a2-ae56-70093b47b461)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/c0a619ab-a4b2-461d-8e9c-3597d9b5fd97)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/d809ecba-852d-41db-a566-cbad667bf765)<br>
