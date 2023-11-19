@@ -103,5 +103,5 @@ Asks for name and starts game as if the player hit "New Game"<br>
 
  <h2>Test Cases</h2>
 
-![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/3860f2d4-7a32-4f8c-afc1-429d1f42a2d0)
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/3860f2d4-7a32-4f8c-afc1-429d1f42a2d0)<br>
 This Section of code (as commented) tries to open our save file, however throws an exception when the file is missing, or if any other error occurs, resetting the file and writing a new one.
