@@ -7,9 +7,9 @@ traverse through the dangerous forest,
 defeat foes,
 level up,
 and become strong enough to defeat the demon acolayde.
-<h3>GitHub Repository: </h3> https://github.com/Spenu12994/3016-cw1-game.git
+<h3>GitHub Repository: </h3> https://github.com/Spenu12994/3016-cw1-game.git<br>
 <h3>Youtube Link: </h3>
-
+https://youtu.be/clwTpAEhh74<br>
 
 <h2>Controls:</h2>
 <ul>
