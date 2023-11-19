@@ -105,3 +105,8 @@ Asks for name and starts game as if the player hit "New Game"<br>
 
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/3860f2d4-7a32-4f8c-afc1-429d1f42a2d0)<br>
 This Section of code (as commented) tries to open our save file, however throws an exception when the file is missing, or if any other error occurs, resetting the file and writing a new one.
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/5822c7ab-2c43-41fe-858f-6403cb674e63)
+
+This block displays the "setName" method belonging to our player class that setr our user's name.<br>
+Using try catch blocks, throws, and error exception handling, we can ensure that the name chosen is an appropriate length and doesn't contain any impossible/imparsable characters.<br>
