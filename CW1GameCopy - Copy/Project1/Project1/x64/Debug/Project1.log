@@ -1,0 +1,27 @@
+﻿  Characters.cpp
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(118,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(156,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(227,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(301,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(321,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(454,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(464,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(504,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(512,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(516,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(118,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(156,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(227,25): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(301,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(321,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(454,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(464,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(504,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(512,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\Characters.cpp(516,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\main.cpp(154,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\main.cpp(420,8): warning C4101: 'key': unreferenced local variable
+F:\store\3016 CW1\CW1GameCopy - Copy\Project1\Project1\main.cpp(480,7): warning C4551: function call missing argument list
+  Generating Code...
+  Project1.vcxproj -> F:\store\3016 CW1\CW1GameCopy - Copy\Project1\x64\Debug\Project1.exe
