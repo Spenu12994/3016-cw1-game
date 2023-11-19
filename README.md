@@ -203,4 +203,29 @@ A more accurate final ERD would likely look like the following:<br>
 
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/8bf6500b-de19-4345-a681-9491e18dc914)<br>
 
+<h3>Map Design: </h3>
+
+Early Designs for the map and the final layout didnt vary drastically, the skeleton is still there, but some tweaks were made either due to data handling limits, or simply gameplay enhancement.<br>
+The First Draft Looked like this:<br>
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/f0dd0253-1613-4adb-a301-fceb1ed35a33)<br>
+
+With Splits between each file looking roughly like this:<br>
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/85768f5e-6c41-498e-a88c-09d14158ef6e)<br>
+
+Some Early text file prototypes can also be found: <br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/db9a1927-cd5f-451f-afe6-bf4423695a56)<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/6829f30a-fd73-4b5a-be62-9363527c745b)<br>
+
+The final layout (with each text file side by side) looks like this: <br>
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/e91496e9-a8d5-4834-aa80-ade1f5b2103b)<br>
+
+And a closer look: <br>
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/ec4c506c-dd90-47d1-aa72-f6f4524914c5)<br>
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/c9c17419-fb56-4131-88fb-c22e7f4e1d5e)<br>
+
+
 
