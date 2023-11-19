@@ -10,7 +10,10 @@ and become strong enough to defeat the demon acolayde.
 <h3>GitHub Repository: </h3> https://github.com/Spenu12994/3016-cw1-game.git<br>
 <h3>Youtube Link: </h3>
 https://youtu.be/clwTpAEhh74<br>
-
+<h3>Visual studio version:</h3>
+Visual Studio Community 2022<br>
+<h3>Operating System:</h3>
+Windows 10<br>
 <h2>Controls:</h2>
 <ul>
 <li>wasd - Movement</li>
