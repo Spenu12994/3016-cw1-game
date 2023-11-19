@@ -227,5 +227,6 @@ And a closer look: <br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/ec4c506c-dd90-47d1-aa72-f6f4524914c5)<br>
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/c9c17419-fb56-4131-88fb-c22e7f4e1d5e)<br>
 
-
+In the final draft the long area at the top was replaced with a long walk up to the final boss, and the river stretch was replaced with a final gate that led to the end of the game.<br>
+our second crystal/chest half way up the map was also refined more by including a puzzle section of tall grass to walk through, rather than just a thick wave to try and slug through (as this did not aid User Experience)<br>
 
