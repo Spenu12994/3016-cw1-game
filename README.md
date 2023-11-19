@@ -1,11 +1,15 @@
 <h1>Welcome To The Game!</h1>
 
+
 A Demon Acolayde has risen from the earth and threatens the peaceful valley village.
 it is your goal to:
 traverse through the dangerous forest,
 defeat foes,
 level up,
 and become strong enough to defeat the demon acolayde.
+<h2>GitHub Repository: </h2> https://github.com/Spenu12994/3016-cw1-game.git
+<h2>Youtube Link: </h2>
+
 
 <h2>Controls:</h2>
 <ul>
