@@ -8,10 +8,11 @@ level up,
 and become strong enough to defeat the demon acolayde.
 
 <h2>Controls:</h2>
-wasd - Movement
-e,f,enter - accept
-c - save and close the game
-
+<ul>
+<li>wasd - Movement</li>
+<li>e,f,enter - accept</li>
+<li>c - save and close the game</li>
+</ul>
 
 (Name Your character "Dev" to skip the intro cutscene)
 
