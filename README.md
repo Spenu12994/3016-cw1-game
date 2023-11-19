@@ -182,3 +182,22 @@ Larger Text:<br>
 
 ![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/767e527b-44d8-4ab0-939f-4dfe5b968e46)<br>
 
+<h2>Early UML Diagrams: </h2>
+
+<h3>Entity Relationship Diagram:</h3>
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/254a76f6-8ec0-4fea-9853-9b8648615888)<br>
+
+This version was the original plan for the class structure and relationships, however during production I found that some bits needed to be changed:<br>
+<ul>
+	<li>Player and Enemy shared various methods and stats that could be abstracted further into a Fighter Class (such as attacking, taking damage, health, speed, attack, etc)</li>
+	<li>The Level class was not doing enough to be justified as its own class, and so it was tweaked into the save class, which handles getting our files like the level class, however also handles saving and loading our game</li>
+	<li>Due to the scope of the project, the final enemy count was scaled down to just 3 enemies for each enemy type, as otherwise it would be too many different items to explain quickly</li>
+	<li>The Addition of the Fight class to handle the combat turns was not an expected addition in early development, as the final "Fighting" gameplay was undecided</li>
+</ul><br>
+
+A more accurate final ERD would likely look like the following:<br>
+
+![image](https://github.com/Spenu12994/3016-cw1-game/assets/91668500/8bf6500b-de19-4345-a681-9491e18dc914)<br>
+
+
